@@ -1,0 +1,4 @@
+,Val_accuracy,Hyperparameters
+Default model,0.8571428571428571,"{'n_estimators': 100, 'max_depth': None, 'feature_frac': 0.12909944487358055, 'criterion': 'entropy', 'bootstrap': True}"
+Best model according to GridSearch,0.8095238095238095,"{'n_estimators': 90, 'max_depth': 4, 'feature_frac': 0.12909944487358055, 'criterion': 'entropy', 'bootstrap': True}"
+Best model according to RandomSearch,0.8571428571428571,"{'n_estimators': 90, 'max_depth': 4, 'feature_frac': 0.3, 'criterion': 'gini', 'bootstrap': False}"
